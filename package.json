@@ -16,7 +16,7 @@
     "preview_image_url": "https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/0f9ff766-eb55-4eee-1ad6-efeb981fe800/public"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "12.1.0",
+    "@astrojs/cloudflare": "12.4.1",
     "@astrojs/react": "4.1.2",
     "@astrojs/tailwind": "5.1.4",
     "@hookform/resolvers": "3.9.1",
@@ -28,7 +28,7 @@
     "@tanstack/react-table": "8.20.6",
     "@types/react": "19.0.8",
     "@types/react-dom": "19.0.3",
-    "astro": "5.1.3",
+    "astro": "5.6.2",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
     "lucide-react": "0.469.0",
